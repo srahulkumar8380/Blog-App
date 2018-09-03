@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Blog</string>
+    <string name="title_login">Login</string>
+    <string name="text_username">Username</string>
+    <string name="text_password"> Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_remember">Remember me</string>
+    <string name="text_forgotPassword">Forgot password ?</string>
+    <string name="login_title">LOGIN</string>
+    <string name="text_signUp">Create Account</string>
+    <string name="text_registration">New Registration</string>
+</resources>
